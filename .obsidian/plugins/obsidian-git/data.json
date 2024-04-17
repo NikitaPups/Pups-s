@@ -4,7 +4,7 @@
   "autoSaveInterval": 3,
   "autoPushInterval": 2,
   "autoPullInterval": 2,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -28,7 +28,7 @@
   "gitDir": "https://github.com/NikitaPups/Pups-s.git",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
-  "dateInHistoryView": false,
+  "dateInHistoryView": true,
   "lineAuthor": {
     "show": false,
     "followMovement": "inactive",
@@ -50,7 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
