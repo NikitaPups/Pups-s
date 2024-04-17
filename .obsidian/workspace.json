@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+                "file": "Day Planners/Day Planner-20240417.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "60f11a263eca34de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -118,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+                "file": "Day Planners/Day Planner-20240417.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+                "file": "Day Planners/Day Planner-20240417.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md"
+                "file": "Day Planners/Day Planner-20240417.md"
               }
             }
           },
@@ -196,13 +204,15 @@
   "active": "c9bc6d4837004152",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20240416.md",
-    "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+    "Day Planners/Day Planner-20240417.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
+    "Beorg/API's/Demo 04.04.24 -26.04.md",
+    "Beorg/API's/Demo 04.04.24 -19.04.md",
     "Beorg/Projects/уБрИр/уБрир общ FAQ.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/Задачи убрир ИП.md",
     "Beorg/API's/Тестовый API УБРИР 100 символов.md",
-    "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/Глоссарий.md",
     "Day Planners/Day Planner-20240415.md",
     "Beorg/API's/Пробный API.md",
@@ -227,9 +237,7 @@
     "Beorg 2/API's/La Vivion - 22.04.24.md",
     "Beorg 2/API's/Test API.md",
     "Beorg 2/Projects",
-    "Beorg 2/FAQ bElOaDer.md",
     "Beorg 2/API's",
-    "Beorg 2/Work-work-work-work-work.md",
     "Beorg 2",
     "Untitled.canvas"
   ]
