@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240417.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "60f11a263eca34de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -33,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Planners/Day Planner-20240416.md",
+                "file": "Day Planners/Day Planner-20240417.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20240417.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20240417.md",
+                "file": "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20240417.md"
+                "file": "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md"
               }
             }
           },
@@ -203,9 +195,9 @@
   },
   "active": "c9bc6d4837004152",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20240416.md",
-    "Day Planners/Day Planner-20240417.md",
     "Beorg/Projects/уБрИр/УбРиР Общ..md",
+    "Day Planners/Day Planner-20240417.md",
+    "Day Planners/Day Planner-20240416.md",
     "Beorg/Projects/уБрИр/Убрир АВТО/UBrir AUTO Glosarii.md",
     "Beorg/API's/Demo 04.04.24 -26.04.md",
     "Beorg/API's/Demo 04.04.24 -19.04.md",
