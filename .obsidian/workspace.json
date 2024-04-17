@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Selfish/Mine.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Selfish/Mine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md",
+                "file": "Selfish/Mine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beorg/Projects/уБрИр/УбРиР Общ..md"
+                "file": "Selfish/Mine.md"
               }
             }
           },
@@ -195,12 +195,12 @@
   },
   "active": "c9bc6d4837004152",
   "lastOpenFiles": [
+    "Selfish/Pres.md",
+    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "тз_главная_смена_v01.docx",
     "Beorg/Projects/уБрИр/уБрир Правки и вопросы.md",
-    "Beorg/Projects/уБрИр/УбРиР Общ..md",
     "Day Planners/Day Planner-20240417.md",
     "Selfish/Mine.md",
-    "Selfish/Pres.md",
     "Beorg/Projects/уБрИр/УбРиР Ип (1023)/УбРиР Ип.md",
     "Beorg/API's/API Авто, мой для загрузки.md",
     "Beorg/API's/Тестовый API УБРИР 100 символов.md",
@@ -230,7 +230,6 @@
     "Beorg 2/API's/La Vivion - 22.04.24.md",
     "Beorg 2/Projects",
     "Beorg 2/API's",
-    "Beorg 2",
     "Untitled.canvas"
   ]
 }
