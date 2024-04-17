@@ -1,4 +1,4 @@
 - [ ] Orange pi 
 - [x] Ubunta  linux
 - [x] balena etcher
-- [ ] CopyQ
+- [x] CopyQ 
